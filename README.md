@@ -13,12 +13,10 @@ A clean Low-Level Design implementation of a Chess game built for Machine Coding
 - Strategy via polymorphism (Piece movement)
 - Separation of concerns
 - Domain-driven modeling
+- 
+## Author
+-Abhishek Keshri
 
 ## How to Run
 ```bash
 dotnet run
-
-
-## Author
-
--Abhishek Keshri
